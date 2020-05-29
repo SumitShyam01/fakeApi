@@ -1,4 +1,4 @@
-{
+[{
 "GetFormType":{
   "status": 0,
   "data": [
@@ -15,7 +15,7 @@
   ],
   "result": "Success"
 },
-GetCategories:{
+"GetCategories":{
   "status": 0,
   "data": [
     {
@@ -51,7 +51,7 @@ GetCategories:{
   ],
   "result": "Success"
 },
-getCategories183:{
+"getCategories183":{
   "status": 0,
   "data": [
     {
@@ -84,7 +84,7 @@ getCategories183:{
   ],
   "result": "Success"
 },
-getUsers:{
+"getUsers":{
   "status": 0,
   "data": [
     {
@@ -110,20 +110,9 @@ getUsers:{
       "userName": "anna",
       "companyID": 1,
       "companyBranchId": null
-    },
-    {
-      "userId": "20ee004f-170c-4b50-ac64-bc0613745b96",
-      "userName": "Delores",
-      "companyID": 1,
-      "companyBranchId": null
-    },
-    {
-      "userId": "1f88851a-6200-4b05-8d1c-10ce945af72a",
-      "userName": "Dorell",
-      "companyID": 1,
-      "companyBranchId": null
     }
   ],
   "result": "Success"
 }
-}
+
+}]
