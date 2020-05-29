@@ -15,7 +15,7 @@
   ],
   "result": "Success"
 }],
-"GetCategories":{
+"GetCategories":[{
   "status": 0,
   "data": [
     {
@@ -50,8 +50,8 @@
     }
   ],
   "result": "Success"
-},
-"getCategories183":{
+}],
+"getCategories183":[{
   "status": 0,
   "data": [
     {
@@ -83,8 +83,8 @@
     
   ],
   "result": "Success"
-},
-"getUsers":{
+}],
+"getUsers":[{
   "status": 0,
   "data": [
     {
@@ -113,6 +113,6 @@
     }
   ],
   "result": "Success"
-}
+}]
 
 }
