@@ -40,11 +40,6 @@
 				"id": 184,
 				"parentModuleId": 169,
 				"moduleName": "Initial Evaluation/Re-Evaluation (NJSAMS)"
-			},
-			{
-				"id": 185,
-				"parentModuleId": 169,
-				"moduleName": "Initial Evaluation/Re-Evaluation"
 			}
 		],
 		"result": "Success"
@@ -70,11 +65,6 @@
 				"id": 207,
 				"parentModuleId": 183,
 				"moduleName": "Release to Allow Discharge Follow-up"
-			},
-			{
-				"id": 208,
-				"parentModuleId": 183,
-				"moduleName": "Offender Details"
 			}
 
 
@@ -90,12 +80,6 @@
 				"companyBranchId": null
 			},
 			{
-				"userId": "003b5ddc-a86a-4e27-ae17-064896ad9790",
-				"userName": "Adolfo",
-				"companyID": 1,
-				"companyBranchId": null
-			},
-			{
 				"userId": "e176bee8-bc6c-4608-a87d-6f0a91a3dfb1",
 				"userName": "Alex",
 				"companyID": 1,
@@ -106,6 +90,26 @@
 				"userName": "anna",
 				"companyID": 1,
 				"companyBranchId": null
+			}
+		],
+		"result": "Success"
+	}],
+	"getRoles": [{
+		"status": 0,
+		"data": [{
+				"roleId": "bf230a2f-d558-44a4-95fc-ce1f76025749",
+				"roleName": "Administrative Staff",
+				"applicationId": "3f589bed-4b0e-4679-b382-d0f4af4dee8b"
+			},
+			{
+				"roleId": "d926581a-f8af-46f5-8391-a2cb9adedc70",
+				"roleName": "Administrator",
+				"applicationId": "3f589bed-4b0e-4679-b382-d0f4af4dee8b"
+			},
+			{
+				"roleId": "ca1a1f49-02a9-4c6d-b28f-783271b1913d",
+				"roleName": "All Branch",
+				"applicationId": "3f589bed-4b0e-4679-b382-d0f4af4dee8b"
 			}
 		],
 		"result": "Success"
