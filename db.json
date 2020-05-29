@@ -1,5 +1,5 @@
-[{
-"GetFormType":{
+{
+"GetFormType":[{
   "status": 0,
   "data": [
     {
@@ -14,7 +14,7 @@
     }
   ],
   "result": "Success"
-},
+}],
 "GetCategories":{
   "status": 0,
   "data": [
@@ -115,4 +115,4 @@
   "result": "Success"
 }
 
-}]
+}
