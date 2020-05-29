@@ -109,31 +109,6 @@
 			}
 		],
 		"result": "Success"
-	}],
-	"getRoles": [{
-		"status": 0,
-		"data": [{
-				"roleId": "bf230a2f-d558-44a4-95fc-ce1f76025749",
-				"roleName": "Administrative Staff",
-				"applicationId": "3f589bed-4b0e-4679-b382-d0f4af4dee8b"
-			},
-			{
-				"roleId": "d926581a-f8af-46f5-8391-a2cb9adedc70",
-				"roleName": "Administrator",
-				"applicationId": "3f589bed-4b0e-4679-b382-d0f4af4dee8b"
-			},
-			{
-				"roleId": "ca1a1f49-02a9-4c6d-b28f-783271b1913d",
-				"roleName": "All Branch",
-				"applicationId": "3f589bed-4b0e-4679-b382-d0f4af4dee8b"
-			},
-			{
-				"roleId": "5d4aa4e8-5ee9-4331-8bdc-3bfd4f27c36b",
-				"roleName": "All Brranch",
-				"applicationId": "3f589bed-4b0e-4679-b382-d0f4af4dee8b"
-			}
-		],
-		"result": "Success"
 	}]
 
 }
